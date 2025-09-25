@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ainun Permana  
 
-<!--
-**Ainun27/Ainun27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Dev Student  
+🎓 Informatics Engineering - Semester 5  
+⚡ Laravel & CodeIgniter 4  
+🌱 Learning Vue.js & MySQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me  
+Saya seorang mahasiswa Informatika yang sedang mendalami pengembangan aplikasi web full-stack.  
+Fokus utama saat ini adalah membangun proyek menggunakan **Laravel**, **CI4**, serta eksplorasi **Vue.js** untuk frontend modern.  
+
+---
+
+## 🌐 Connect with Me  
+- GitHub: [Ainun27](https://github.com/Ainun27)  
+- Linked-In: 
